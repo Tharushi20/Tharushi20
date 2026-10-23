@@ -48,8 +48,6 @@ Experience contributing to a platform for device alarms, solar generation monito
 
 **Areas:** Monitoring · Analytics Dashboards · APIs · Reporting
 
-> **Note:** Work-related implementations and code may be confidential. Public demos or sanitized case studies can be linked here when available.
-
 ## 🚀 Project Highlights
 
 ### 🏥 Care Compass Hospital Management System
